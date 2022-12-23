@@ -10,7 +10,7 @@ _Headless_
 - By default, this suite is set to `headless` mode, which can be modified in the `playwright.config.ts` file.
 
 _Browser_
-- By default, tests are run on Chrome, Firefox and Safari. This can be modified in the `playwright.config.ts` file.
+- By default, tests are run on Chrome. This can be modified in the `playwright.config.ts` file.
 
 ### Running the Tests
 - In order to run the login tests, run the following command in the project root directory in order to kickoff the test command script defined in the package.json: 
