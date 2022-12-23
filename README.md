@@ -21,4 +21,4 @@ _Browser_
 - Tests are broken up into separate spec files based on which page is being tested. Before each test, the user is navigated to the given page under test, followed by the steps taken to complete the test, and assertions related to each test case.
 
 ## Note on Data Tags
-- One callout for the solutions given is that they use the most optimal path available and in many cases are relying on the direct path in order to interact with the correct elements for each test. The tests written can be significatly improved with the addition of data tags to the front-end for cleaner and less flakey E2E automation 
+- One callout for the solutions given is that they use the most optimal path available and in many cases are relying on the direct path in order to interact with the correct elements for each test. The tests written can be significatly improved with the addition of data tags to the front-end for cleaner and less flakey E2E automation.
